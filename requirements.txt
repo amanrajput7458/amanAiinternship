@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 tensorflow==2.21.0
 numpy
 pandas
@@ -7,13 +7,3 @@ matplotlib
 seaborn
 jupyter
 ipykernel
-=======
-tensorflow==2.21.0
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn
-jupyter
-ipykernel
->>>>>>> 5e39cd8b7edafecc535f552e9b21f02378e9b405
