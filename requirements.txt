@@ -1,9 +1,3 @@
-tensorflow==2.21.0
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn
-jupyter
-ipykernel
-category-encoders
+streamlit>=1.36.0
+opencv-python-headless>4.10.0
+numpy>=1.26.0
