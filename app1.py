@@ -73,3 +73,7 @@ else:
     if report:
         st.dataframe(report, use_container_width=True)
     else:
+        st.info("no attendance marked")
+
+
+
