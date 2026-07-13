@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 streamlit>=1.36.0
 opencv-python-headless>4.10.0
-=======
 streamlit>=1.36.0
 opencv-python-headless>4.10.0
->>>>>>> e901cc1f1faa76ba777694f73333882b0cb6ba33
 numpy>=1.26.0
